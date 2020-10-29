@@ -4,7 +4,7 @@
 
 I'm a Software Engineer constantly looking for the yay-feeling and new technologies. I love challenges, developing stuff and beer(s)! 
 
-\- 1 years of experience with Go<br />
+\- 1 year of experience with Go<br />
 \- 2 years of experience with Java<br />
 \- 2 years of experience with PHP<br />
 
@@ -40,7 +40,7 @@ Gen 2016 - Feb 2016
 
 **Stanislav**<br />
 July 2020 - Current - [website](https://github.com/alessio-perugini/stanislav)<br />
-Under active development it aim to detect potentially network threats, using periodicity detection and signature based approach. <br />
+Under active development it aims to detect potentially network threats, using periodicity detection and signature based approach. <br />
 Currently using: NetFlow9, InfluxDb, DGA prevention using LMS, probabilistic algorithm to detect burst attacks (see Peng project), JA3 fingerprint, TLS cipher/version inspection. 
 
 
@@ -50,8 +50,8 @@ A simple port scanner detector library, with focus on lightweight memory usage. 
 
 **Fallroyale**<br />
 Mar 2018 – Jun 2018 [playstore](https://play.google.com/store/apps/details?id=com.ReZstudios.FallRoyale) - [backend](https://github.com/alessio-perugini/fallroyale) <br /> 
-Started as a 48h challenge with my roomates, it began a popular android game with ~200k download. I developed the backend. It share personal score, leaderboard and shop. It was my first time using php, create quite big db (mysql). Didn't know at the time REST Api, ORM, socket and much more. But was a fun challange.<br />
-What i learned:
+Started as a 48h challenge with my roomates, it began a popular android game with ~200k download. I developed the backend. It share personal score, leaderboard and shop. It was my first time using php, create quite big db (mysql). Didn't know at the time REST Api, ORM, socket and much more. It was a fun challange.<br />
+What I learned:
 Php, mysql, transaction, hashing pw, apache, cloudflare, anti cheating system.
 
 
