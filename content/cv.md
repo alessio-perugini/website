@@ -62,10 +62,7 @@ A simple port scanner detector library, with focus on lightweight memory usage. 
 
 **Fallroyale**<br />
 Mar 2018 – Jun 2018 [playstore](https://play.google.com/store/apps/details?id=com.ReZstudios.FallRoyale) - [backend](https://github.com/alessio-perugini/fallroyale) <br /> 
-Started as a 48h challenge with my roomates, it began a popular android game with ~200k download. I developed the backend. It share personal score, leaderboard and shop. It was my first time using php, create quite big db (mysql). Didn't know at the time REST Api, ORM, socket and much more. It was a fun challange.<br />
-What I learned:
-Php, mysql, transaction, hashing pw, apache, cloudflare, anti cheating system.
-
+Started as a 48h challenge with my roomates, it began a popular android game with ~200k download. I developed the backend.
 
 ### Skills & Tools
 
