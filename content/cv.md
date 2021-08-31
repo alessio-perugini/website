@@ -4,7 +4,7 @@
 
 I'm a Software Engineer constantly looking for the yay-feeling and new technologies. I love challenges, developing stuff and beer(s)! 
 
-\- 1 year of experience with Go<br />
+\- 2 year of experience with Go<br />
 \- 2 years of experience with Java<br />
 \- 2 years of experience with PHP<br />
 
@@ -13,6 +13,18 @@ For a more detailed profile please check out my [linkedin](https://linkedin.com/
 Contacts: [email](mailto:alessioper.98@gmail.com) - [github](https://github.com/alessio-perugini) - [linkedin](https://linkedin.com/in/perugini-alessio)
 
 ### Experience
+
+---
+
+**Software Engineer**<br />
+_ProntoPro - [website](https://www.prontopro.it/) - [github](https://github.com/prontopro)<br />_
+Feb 2021 - Current
+
+ProntoPro.it is Italy's largest local service marketplace, expanding internationally.
+
+\- Develop backend services with Go.<br />
+\- Develop backend services with PHP and Symfony framework.<br />
+\- Develop internal tool in go to automatically upgrade all golang projects.<br />
 
 ---
 
@@ -59,8 +71,8 @@ Php, mysql, transaction, hashing pw, apache, cloudflare, anti cheating system.
 
 ---
 
-\- Programming languages: Go, Java, PHP, C#<br />
+\- Programming languages: Go, PHP, Java<br />
 \- Backend frameworks & libraries: go-chi, sqlx, gRPC, protobuf<br />
 \- Databases: PostgreSQL, Mysql<br />
-\- Tools: Git, VSCode, GoLand, Docker, PhpStorm<br />
+\- Others: graphql, DDD, TDD<br />
 \- Languages: Italian, English
