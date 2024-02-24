@@ -1,6 +1,6 @@
 export default defineAppConfig({
   // Configure Content Wind here
-  cover: '/cover.jpg',
+  //cover: '/cover.jpg',
   socials: {
     github: 'alessio-perugini',
   }
